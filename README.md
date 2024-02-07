@@ -1,1 +1,2 @@
-# farmwiseAI
+# WeatherApp
+
